@@ -1,0 +1,83 @@
+user credentials
+
+database name:o_t_b
+username:gatetejames
+password:222002143
+
+
+Project Documentation:
+
+1. Project Structure:
+
+The project follows a clear structure to ensure easy navigation and maintenance. Here's an overview:
+
+- Home Page:
+  - Provides information about the system, its services, contact details, and a brief description of functionalities.
+  - Includes navigation options for booking and signing in.
+
+- Booking Page:
+  - Accessed by clients for booking tickets.
+  - Allows clients to submit booking details and view their ticket status after submission.
+
+- Sign-In Page:
+  - Accessible by agents and admin.
+  - Allows agents and admin to log in to the system.
+
+- Dashboard (Agents and Admin):
+  - Contains a list of bookings categorized by agency.
+  - Allows agents to update, delete, and approve bookings.
+  - Allows admin to add agencies and agents.
+
+2. Functionality:
+
+- Client (Booking Process):
+  - Accesses the home page and clicks on the booking button.
+  - Submits booking details.
+  - Has the option to view the ticket status after submission.
+
+- Agent (Booking Management):
+  - Signs in using the sign-in button on the home page.
+  - Views all bookings categorized by agency.
+  - Can update, delete, and approve bookings.
+  - Logs out after completing tasks.
+
+- Admin (Agency and Agent Management):
+  - Signs in using the sign-in button on the home page.
+  - Adds agencies and agents to the system.
+  - Logs out after completing tasks.
+
+3. Usage:
+
+- Client:
+  - Open the system and go to the home page.
+  - Click on the booking button.
+  - Fill in the booking details and submit.
+  - Optionally, check the ticket status.
+
+- Agent:
+  - Open the system and go to the home page.
+  - Click on the sign-in button.
+  - Log in using credentials.
+  - View, update, delete, and approve bookings as needed.
+  - Log out after completing tasks.
+
+- Admin:
+  - Open the system and go to the home page.
+  - Click on the sign-in button.
+  - Log in using credentials.
+  - Add agencies and agents as required.
+  - Log out after completing tasks.
+
+4. Project Maintenance:
+
+- Documentation: Keep the project documentation updated with any changes or additions to functionalities.
+- Regular Testing: Conduct regular testing to ensure all functionalities are working as expected.
+- Security Updates: Implement security measures to protect user data and prevent unauthorized access.
+- User Feedback: Gather feedback from users to improve the system's usability and functionality.
+
+By following this documentation, users can easily understand the project structure, functionalities, and how to use the system efficiently.
+
+
+
+
+
